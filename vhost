@@ -1,0 +1,7 @@
+http {
+    root /www/data;
+    server localhost;
+
+    location / {
+    }
+}
